@@ -1,0 +1,15 @@
+#result {
+  display: none;
+  background-color: whitesmoke;
+  width: 80%;
+  text-align: 20px;
+  border-radius: 0.2px;
+}
+
+.resultname {
+  font-size: 26px;
+}
+
+.resultDesc {
+  font-size: 20px;
+}

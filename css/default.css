@@ -1,3 +1,6 @@
 body {
-    background-color: whitesmoke;
+  background-color: skyblue;
+}
+* {
+  font-family: "Noto Sans KR", sans-serif;
 }
